@@ -9,7 +9,7 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Melissa20%Gibson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/melissa-gibson-5688a2235/)](https://https://www.linkedin.com/in/melissa-gibson-5688a2235/)
+[![Linkedin Badge](https://img.shields.io/badge/-Melissa20%Gibson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melissa-gibson-5688a2235/)](https://www.linkedin.com/in/melissa-gibson-5688a2235/)
 [![Medium Badge](https://img.shields.io/badge/Melissa%20Gibson-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@melissgibson)](https://medium.com/@melissgibson)
 [![Gmail Badge](https://img.shields.io/badge/-melcassidy45@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:melcassidy45@gmail.com)](mailto:melcassidy45@gmail.com)
 
