@@ -2,14 +2,17 @@
 
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 
-### Hi there 👋
-I am Melissa Gibson. I am interested in devops engineering and cloud computing! I am currently learning python.
+- 👋 Hi there, I’m Melissa Gibson
+- 👀 I’m interested in Devops engineering and cloud computing
+- 🌱 I’m currently learning AWS and Python
+- 💞️ I’m looking to collaborate and make connections!
+- 📫 How to reach me melcassidy45@gmail.com
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Melissa20%Gibson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melissa-gibson-5688a2235/)](https://www.linkedin.com/in/melissa-gibson-5688a2235/)
+[![Linkedin Badge](https://img.shields.io/badge/-Melissa%20Gibson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melissa-gibson-5688a2235/)](https://www.linkedin.com/in/melissa-gibson-5688a2235/)
 [![Medium Badge](https://img.shields.io/badge/Melissa%20Gibson-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@melissgibson)](https://medium.com/@melissgibson)
 [![Gmail Badge](https://img.shields.io/badge/-melcassidy45@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:melcassidy45@gmail.com)](mailto:melcassidy45@gmail.com)
 
